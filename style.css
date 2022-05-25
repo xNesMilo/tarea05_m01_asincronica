@@ -1,0 +1,21 @@
+#container {
+    width: 80%;
+    font-size: 40px;
+    margin-left: auto;
+    margin-right: auto;
+}
+img {
+    width: 30%;
+    margin: 1.4%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 40px;
+}
+h1 {
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+    border-bottom: 10px red solid;
+    padding: 5px;
+    width: 22%;
+    margin-left: 36%;
+}
